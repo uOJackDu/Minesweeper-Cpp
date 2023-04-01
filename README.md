@@ -11,4 +11,4 @@ After the game starts, press "1", "2", "3", or "4" to select the mode.
 - "3": Expert
 - "4": Custom (which is not complete yet and you cannot really custom the board)
 
-Press ESC to go back.
+Press ESC to go back to menu.
