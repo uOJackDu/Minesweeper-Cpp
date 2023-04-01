@@ -1,7 +1,7 @@
 # Minesweeper-Cpp
 A minesweeper game written in C++.
 
-The game cannot run, you have to compile it yourself to run the game.
+The game cannot be opened. You have to compile it yourself to run the game.
 
 After the game starts, press "1", "2", "3", or "4" to select the mode.
 
