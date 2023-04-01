@@ -1,8 +1,7 @@
 # Minesweeper-Cpp
 A minesweeper game written in C++.
 
-For some reason, the game can only be opened from the terminal.
-To run the game, open the terminal at the directly and run "./main".
+The game cannot run, you have to compile it yourself to run the game.
 
 After the game starts, press "1", "2", "3", or "4" to select the mode.
 
